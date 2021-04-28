@@ -33,7 +33,7 @@ bld/
 [Ll]og/
 [Ll]ogs/
 
-# Some folders / files not to be ignored
+# Some folders and files not to be ignored
 #![Dd]ebug/
 #![Bb]in/
 #![Bb]in/[Dd]ebug/img/
