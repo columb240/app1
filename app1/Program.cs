@@ -11,6 +11,7 @@ namespace app1
         static void Main(string[] args)
         {
             Console.WriteLine(5+2);
+            Console.WriteLine("");
             Console.ReadLine();
         }
     }
