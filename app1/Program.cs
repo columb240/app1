@@ -13,6 +13,7 @@ namespace app1
             Console.WriteLine(5+2);
             Console.WriteLine("");
             Console.WriteLine(0);
+            Console.WriteLine(1);
 
             Console.ReadLine();
         }
